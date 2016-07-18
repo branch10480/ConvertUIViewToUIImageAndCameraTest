@@ -1,0 +1,2 @@
+# ConvertUIViewToUIImageAndCameraTest
+ViewのUIImage変換、カメラ機能サンプル
